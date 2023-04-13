@@ -1,7 +1,7 @@
 ![My Skills](https://skillicons.dev/icons?i=flutter,go,dart,java)
 - 🔭 I’m currently working on - Flutter
 - 🌱 I’m currently learning - Golang
-- 👯 I’m looking to collaborate on opensource Flutter projects as well as Golang projects
+- 👯 I’m looking to collaborate on Open Source Flutter projects as well as Golang projects
 - 📫 How to reach me: 
   [anirudhmpai](https://in.linkedin.com/in/anirudhmpai)
 - 😄 Pronouns: He/Him

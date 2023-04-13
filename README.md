@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=flutter,go,dart,java)
+![My Skills](https://skillicons.dev/icons?i=flutter,go,android,dart,java,kotlin)
 - 🔭 I’m currently working on - Flutter
 - 🌱 I’m currently learning - Golang
 - 👯 I’m looking to collaborate on Open Source Flutter projects as well as Golang projects

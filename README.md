@@ -1,4 +1,14 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmpai)
+![My Skills](https://skillicons.dev/icons?i=flutter,go,dart,java)
+- 🔭 I’m currently working on - Flutter
+- 🌱 I’m currently learning - Golang
+- 👯 I’m looking to collaborate on -> Flutter projects as well as Golang projects
+- 📫 How to reach me: 
+  [anirudhmpai](https://in.linkedin.com/in/anirudhmpai)
+- 😄 Pronouns: He/Him
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhmpai&show_icons=true&theme=tokyonight)
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmpai)
 
 <!--
 **anirudhmpai/anirudhmpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

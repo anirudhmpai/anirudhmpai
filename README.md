@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on Open Source Flutter projects as well as Golang projects
 - 📫 How to reach me: 
   [anirudhmpai](https://in.linkedin.com/in/anirudhmpai)
-- 😄 Pronouns: He/Him
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhmpai&show_icons=true&theme=tokyonight)
 
